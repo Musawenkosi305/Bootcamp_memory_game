@@ -25,6 +25,7 @@ h1 {
 
 .card {
     background-color: rgb(32, 237, 107);
+    border: 1px solid black;
     border-radius: 5px;
     padding: 20px;
     text-align: center;
@@ -35,7 +36,7 @@ h1 {
     transition: transform 0.8s;
     height: 6rem;
     width: 3rem;
-    box-shadow: 3px 3px 8px rgb(32, 237, 107);
+    box-shadow: 3px 3px 8px black;
     
 }
 
